@@ -16,8 +16,29 @@ A responsive, interactive, and visually stunning **Spotify Clone** built using c
 - ✅ Playlist section with album covers and hover effects
 - ✅ Functional music player UI with play/pause and progress bar
 - ✅ Realistic Spotify UI design and animations
-- ✅ Clean and structured code with comments
 - ✅ Optimized for fast load and smooth transitions
+
+## 📂 Project Structure
+
+SpotifyCloneProjects/
+├── index.html
+├── favicon.ico
+├── style.css
+├── utility.css
+├── script.js
+├── songs/                       
+├── assets/                      
+│   ├── logo.svg
+│   ├── home.svg
+│   ├── playlist.svg
+│   ├── music.svg
+│   ├── play.svg
+│   ├── pause.svg
+│   ├── nextsong.svg
+│   ├── prevsong.svg
+│   ├── mute.svg
+│   └── hamburger.svg
+
   
 ## 🚀 Getting Started
 
