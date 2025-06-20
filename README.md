@@ -18,7 +18,7 @@ A responsive, interactive, and visually stunning **Spotify Clone** built using c
 - ✅ Realistic Spotify UI design and animations
 - ✅ Clean and structured code with comments
 - ✅ Optimized for fast load and smooth transitions
-- 
+  
 ## 🚀 Getting Started
 
 1. Clone the repo:
