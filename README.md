@@ -19,6 +19,7 @@ A responsive, interactive, and visually stunning **Spotify Clone** built using c
 - ✅ Optimized for fast load and smooth transitions
 
 
+
 📂 Project Structure
 A well-organized folder structure for clarity, scalability, and easy navigation:
 
@@ -33,6 +34,7 @@ A well-organized folder structure for clarity, scalability, and easy navigation:
 ✅ favicon.ico – Tab icon shown in the browser
 
 📁 Folders:
+
 ✅ songs/ – Contains audio files used in the player (e.g., .mp3 songs)
 
 ✅ assets/ – Stores SVG icons and graphics used across the UI:
@@ -56,6 +58,8 @@ A well-organized folder structure for clarity, scalability, and easy navigation:
 🔸 mute.svg – Mute/unmute audio icon
 
 🔸 hamburger.svg – Hamburger menu icon for responsive navigation
+
+
 
 ## 🚀 Getting Started
 
