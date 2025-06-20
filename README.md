@@ -23,25 +23,39 @@ A responsive, interactive, and visually stunning **Spotify Clone** built using c
 A well-organized folder structure for clarity, scalability, and easy navigation:
 
 ✅ index.html – Main HTML file that structures the entire app
+
 ✅ style.css – Core stylesheet for styling UI components
+
 ✅ utility.css – Utility classes for layout and reusability
+
 ✅ script.js – JavaScript file for interactivity and DOM manipulation
+
 ✅ favicon.ico – Tab icon shown in the browser
 
 📁 Folders:
 ✅ songs/ – Contains audio files used in the player (e.g., .mp3 songs)
-✅ assets/ – Stores SVG icons and graphics used across the UI:
-🔸 logo.svg – Spotify logo or branding icon
-🔸 home.svg – Home navigation icon
-🔸 playlist.svg – Playlist section icon
-🔸 music.svg – General music icon
-🔸 play.svg – Play button icon
-🔸 pause.svg – Pause button icon
-🔸 nextsong.svg – Next track icon
-🔸 prevsong.svg – Previous track icon
-🔸 mute.svg – Mute/unmute audio icon
-🔸 hamburger.svg – Hamburger menu icon for responsive navigation
 
+✅ assets/ – Stores SVG icons and graphics used across the UI:
+
+🔸 logo.svg – Spotify logo or branding icon
+
+🔸 home.svg – Home navigation icon
+
+🔸 playlist.svg – Playlist section icon
+
+🔸 music.svg – General music icon
+
+🔸 play.svg – Play button icon
+
+🔸 pause.svg – Pause button icon
+
+🔸 nextsong.svg – Next track icon
+
+🔸 prevsong.svg – Previous track icon
+
+🔸 mute.svg – Mute/unmute audio icon
+
+🔸 hamburger.svg – Hamburger menu icon for responsive navigation
 
 ## 🚀 Getting Started
 
