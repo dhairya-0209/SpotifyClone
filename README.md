@@ -21,6 +21,7 @@ A responsive, interactive, and visually stunning **Spotify Clone** built using c
 
 
 📂 Project Structure
+
 A well-organized folder structure for clarity, scalability, and easy navigation:
 
 ✅ index.html – Main HTML file that structures the entire app
@@ -63,8 +64,10 @@ A well-organized folder structure for clarity, scalability, and easy navigation:
 
 ## 🚀 Getting Started
 
+
 1. Clone the repo:
-   git clone https://github.com/dhairya-0209/SpotifyClone.git
+   
+git clone https://github.com/dhairya-0209/SpotifyClone.git
    
 2.Open index.html in your browser.
 
